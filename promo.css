@@ -1,0 +1,61 @@
+
+.coach-sale{
+  margin-left: 100px;
+  margin-top: 30px;
+}
+.new-sale-style,.promo-sec{
+  margin-left: 100px;
+}
+
+.promo-sec{
+  border: 1px solid green;
+  width: 80%;
+  height: 350px;
+  background-color: #2d9d78;
+  text-align: center;
+}
+
+.promo-heading{
+  border: 1px solid blue;
+  height: 75px;
+  background-color: #ed7926;
+}
+.promo-heading-txt{
+  margin-top: 17.5px;
+  color: whitesmoke;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.promo-txt{
+  background-color: #2d9d78;
+}
+.promo-txt1{
+  font-size: 70px;
+  color: blue;
+  -webkit-text-stroke: 1.5px orange;
+  -webkit-text-fill-color: whitesmoke;
+ }
+ .promo-heading-txt2{
+  color: whitesmoke;
+  font-size: 20px;
+ }
+ .promo-heading-txt3-div{
+  display: flex;
+  justify-content: center;
+ 
+ }
+
+.txt-shop-categories{
+  color: whitesmoke;
+  margin-right: 15px;
+  background-color: #2d9d78;
+  height: 30px;
+  width:150px;
+  border: 1px solid whitesmoke;
+  cursor: pointer;
+}
+.txt-shop-categories:hover{
+  background-color: whitesmoke;
+  color: black;
+}
