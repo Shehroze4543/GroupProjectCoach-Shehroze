@@ -1,0 +1,270 @@
+body{
+  padding-bottom: 1500px;
+}
+.navbar-top-sec{
+  background-color: #2a2929;
+}
+
+.main-sec-heading-div{
+ display: block;
+  
+  text-align: center;
+  
+}
+.main-sec-heading{
+  font-size: 70px;
+  margin-left: -80px;
+  
+}
+.main-sec-subheading{
+  color: rgb(142, 139, 139);
+  margin: -40px;
+}
+.categories-btn-div{
+  display: block;
+  margin-top: 100px ;
+  text-align: center;
+
+}
+.category-btn{
+  margin-right: 40px;
+  border: none;
+  background-color: white;
+  text-decoration: underline;
+  color: gray;
+  font-size: 20px;
+}
+.pic1-div{
+  display: none !important;  
+  /* REMOVE THIE ABOVE LINE */
+  background-color: #3ec7d8;
+  display: flex;
+  flex-direction: row;
+  margin-top: 50px;
+}
+.pic1-right-sec{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 8%;
+}
+.pic1-right-sec-heading{
+  font-size: 60px;
+  }
+  .pic1-right-sec-btn{
+    width: 50%;
+    height: 35px;
+    background-color: #3ec7d8;
+    margin-left: 150px;
+    margin-top: -30px;
+  }
+
+  .tabby-btn{
+    margin-top: 20px;
+    height: 35px;
+    background-color: white;
+    cursor: pointer;
+  }
+
+  .tabby-containers{
+    
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+  }
+
+  .tabby-box{
+    margin-right: 30px;
+    width: 25%;
+    height: 570px;
+    text-align: center;
+
+  }
+
+  #tabby1{
+    background-color: #ed7926;
+  }
+  #tabby2,#tabby-btn2{
+    background-color:#2d9d78;
+  } 
+  #tabby3,#tabby-btn3{
+    background-color: royalblue;
+  }
+
+  .tabby-box-heading{
+    color: whitesmoke;
+    font-size: 70px;
+    margin-top: 225px;
+   
+  }
+   .tabby-box-heading2{
+    margin-top: 0px;
+    color: whitesmoke;
+    font-size: 70px; 
+    margin-top: -45px;
+  }
+  .tabby-box-btn{
+    cursor: pointer;
+    width: 100px;
+    height: 35px;
+   background-color: #ed7926;
+   color: white;
+   border: 1px solid white;
+  }
+
+  .coach-pride-img{
+    width: 90%;
+    margin-top: 50px;
+    margin-left: 150px;
+  }
+#gift-btn{
+  margin-right: 25px;
+  cursor: pointer;
+}
+#gift-btn:hover{
+  background-color: black;
+  color: white;
+}
+.gift-container-div{
+  margin-top: 100px;
+  display: flex;
+  justify-content: center;
+
+}
+
+.gift-container{
+  
+  margin-left: 40px;
+  margin-right: 30px;
+  width: 25%;
+  height: 570px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.gift-container-txt{
+  
+  font-size: 20px;
+  color: gray;
+  line-height: 27.5px;
+}
+.gift-btn{
+  
+  height: 30px;
+  width: 130px;
+}
+
+.gift-btn2{
+  height: 30px;
+  width: 102px;
+  margin-left: 25px;
+}
+.gift-btn,.gift-btn2{
+  background-color: transparent;
+  border: 1px solid black;
+}
+.git-pic{
+  margin-bottom: 25px;
+}
+.main-sec-heading2{
+  margin-top: -30px;
+  font-size: 20px;
+  margin-bottom: 40px;
+}
+
+.access-coach-insider-div{
+  height: 80px;
+  text-align: center;
+  padding-top: 20px;
+  background-color: #f3efe9;
+}
+
+.bag-love-container{
+  display: flex;
+  height: 700px;
+  justify-content: center;
+}
+.bag-box{
+  
+  width: 20%;
+  margin-right: 25px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.bag-pic{
+  border-radius: 25px;
+}
+.bag-desc{
+  font-size: 25px;
+}
+.click-shop-btn1{
+  width: 140px;
+  height: 6%;
+  border-radius: 6px;
+  background-color: transparent;
+  border: 1px solid gray;
+  align-items: center;
+  cursor: pointer;
+}
+
+.dots{
+  font-size: 30px;
+  color: gray;
+  text-align: center;
+}
+.dots:hover{
+  color: black;
+}
+
+.last-section-div{
+  background-color: #ebebeb;
+  height: 100%;
+  padding-bottom: 100px;
+  padding-top: 30px;
+}
+.last-sec-row1,.last-sec-row2{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 100px;
+}
+.row-1-box{
+  margin-right: 35px;
+  height: 225px;
+  width: 15%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.row-1-box-pic{
+  width: 80PX;
+}
+.row-1-box-heading{
+  font-size: 28px;
+  margin-bottom: -10px;
+}
+.sub-heading{
+  color: rgb(64, 63, 63);
+}
+.linkss{
+  color: black;
+}
+
+#row-3-box{
+  margin-left: 45%;
+}
+
+.last-sec-2{
+  height: 250px;
+  text-align: center;
+ 
+}
+#last-sec-id{
+margin-top: 5%;
+width: 50%;
+font-size: 15px;
+}
+#last-sec-id::placeholder{
+  font-size: 20px;
+}
